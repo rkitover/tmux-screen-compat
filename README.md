@@ -9,7 +9,7 @@ so, please send me a pull request!
 ## installation
 
 ```bash
-mkdir ~/src
+mkdir -p ~/src
 cd ~/src
 git clone https://github.com/rkitover/tmux-screen-compat.git
 cd tmux-screen-compat
